@@ -8,12 +8,12 @@ Nov 22, 2026 · @Alnoor · For colleagues and clients
 
 ## What changes
 
-| Area | IAS 1 today | IFRS 18 |
-| --- | --- | --- |
-| Income statement structure | Few required subtotals; "operating profit" undefined and inconsistent | Five categories: **operating, investing, financing, income taxes, discontinued operations**; two required subtotals: **operating profit** and **profit before financing and income taxes** |
-| Management-defined performance measures (MPMs) | Outside the financial statements, unaudited | Subtotals used in public communications (e.g., adjusted EBIT) disclosed in **one note**, reconciled to the nearest IFRS subtotal, with tax and NCI effects per item — **within audit scope** |
-| Aggregation and disaggregation | General materiality guidance | Explicit principles; operating expenses by nature, function or mixed; if by function, disclose depreciation, amortisation, employee benefits, impairment and inventory write-downs in a note; "other" only when no better label exists |
-| Cash flows (IAS 7 amendments) | Indirect method could start from various profit lines; free choice on interest and dividends | Indirect method starts from **operating profit**; classification choices for interest and dividends largely removed |
+|Area|IAS 1 today|IFRS 18|
+|-|-|-|
+|Income statement structure|Few required subtotals; "operating profit" undefined and inconsistent|Five categories: **operating, investing, financing, income taxes, discontinued operations**; two required subtotals: **operating profit** and **profit before financing and income taxes**|
+|Management-defined performance measures (MPMs)|Outside the financial statements, unaudited|Subtotals used in public communications (e.g., adjusted EBIT) disclosed in **one note**, reconciled to the nearest IFRS subtotal, with tax and NCI effects per item — **within audit scope**|
+|Aggregation and disaggregation|General materiality guidance|Explicit principles; operating expenses by nature, function or mixed; if by function, disclose depreciation, amortisation, employee benefits, impairment and inventory write-downs in a note; "other" only when no better label exists|
+|Cash flows (IAS 7 amendments)|Indirect method could start from various profit lines; free choice on interest and dividends|Indirect method starts from **operating profit**; classification choices for interest and dividends largely removed|
 
 Entities whose **main business activity** is investing or providing finance (banks, insurers, investment entities, some holding companies) classify certain investing and financing income and expenses in the operating category — this assessment is a key early judgement.
 
@@ -32,3 +32,8 @@ For a December year-end, **FY2026 is already the comparative year** and the firs
 7. **Governance and controls** — put controls over MPM data in place, since it becomes audited.
 
 **Bottom line:** profit does not change, but how it is presented and explained does. Start with classification and MPMs — they drive most of the effort and the most visible change for users.
+
+
+
+Updated IFRS 18 transition briefing
+
